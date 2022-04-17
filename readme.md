@@ -5,10 +5,12 @@ Show perimission of web push notification to user using HTML5,
 css3 and Vanilla Javascript. 
 * Note use https in production to working this.
 * In localhost you can work without https.
+
+
 ## Demo
 
-
 https://codepen.io/gurinder-batth/pen/LYeXoxE
+
 
 ## Deployment
 
@@ -47,10 +49,24 @@ Show perimission of web push notification to user using HTML5,
 css3 and Vanilla Javascript. 
 * Note use https in production to working this.
 * In localhost you can work without https.
+
 ## Demo
 
-
 https://codepen.io/gurinder-batth/pen/LYeXoxE
+
+
+## Screenshots
+
+![Demo Screenshot](https://raw.githubusercontent.com/Gurinder-Batth/push-notification-alert-web/main/screenshot/screenshot1.png?raw=true)
+
+![Demo Gif](https://raw.githubusercontent.com/Gurinder-Batth/push-notification-alert-web/main/screenshot/demo-image.gif?raw=true)
+
+
+## Features
+
+- No additional library required
+- Svg icon inside HTML.
+- Nice clean HTML and Css
 
 ## Deployment
 
@@ -61,13 +77,6 @@ To deploy this project just clone the code from github
 ```
 
 
-## Features
-
-- No additional library required
-- Svg icon inside HTML.
-- Nice clean HTML and Css
-
-
 ## Authors
 
 - [@Gurinder-Batth](https://github.com/Gurinder-Batth/)
@@ -75,12 +84,7 @@ To deploy this project just clone the code from github
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://raw.githubusercontent.com/Gurinder-Batth/push-notification-alert-web/main/LICENSE)
 
 
-## Screenshots
-
-![Demo Screenshot](https://github.com/Gurinder-Batth/push-notification-alert-web/blob/master/screenshot1.png?raw=true)
-
-![Demo Gif](https://github.com/Gurinder-Batth/push-notification-alert-web/blob/master/demo-image.gif?raw=true)
 
